@@ -55,8 +55,8 @@
 
 📬 Me gusta colaborar y compartir ideas, podes escribirme si:
 
-Queres **desarrollar algo juntos**
-Te interesa aprender **programacion**
-Tenes dudas sobre **cualquier cosa tecnica o de mis proyectos**
+- Queres **desarrollar algo juntos**
+- Te interesa aprender **programacion**
+- Tenes dudas sobre **cualquier cosa tecnica o de mis proyectos**
 
 
