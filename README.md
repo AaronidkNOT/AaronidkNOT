@@ -1,5 +1,6 @@
 <p aling="center">Estudiante y Desarrollador argentino </p>
 <p aling="center">Desarrollando proyectos propios, compartiendo conocimientos y resolviendo problemas reales con codigo </p>
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Sobre Mi**:
