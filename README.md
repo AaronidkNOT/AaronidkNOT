@@ -5,7 +5,7 @@
 
 ## **Sobre Mi**:
 
-<p>Soy estudiante de Análisis Funcional de Sistemas Informáticos. Me apasiona la informática y los algoritmos, y estoy ampliando mis conocimientos en desarrollo front-end y back-end. Mejoro mis habilidades día a día; me encanta aprender y crear algo nuevo, productivo e innovador.</p>
+<p>Soy estudiante de Análisis Funcional de Sistemas Informáticos. Actualmente trabajo con JavaScript (Front-end y Back-end) y estoy construyendo proyectos propios para ganar experiencia real.</p>
 
 🤝 Busco colaborar en proyectos de código abierto <br>
 💻 Programando con mentalidad de analista en sistemas informatico <br>
@@ -42,11 +42,11 @@
 
 ### 🚀 Enfoque actual
 
-- Dominar los fundamentos de python y la manipulacion del DOM
+- Mejorar en JavaScript avanzado
 - Trabajando en una app de soporte con Express.js
 - Aprendiendo React.js + Tailwind.css
 - Explorando los fundamentos de la IA y redes neuronales
-- Aspirando a ser el mejor
+- Desarrollar APIs con Node.js
 
 > "si lo puedes imaginar lo puedes programar"
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -55,8 +55,8 @@
 
 📬 Me gusta colaborar y compartir ideas, podes escribirme si:
 
-- Queres **desarrollar algo juntos**
-- Te interesa aprender **programacion**
-- Tenes dudas sobre **cualquier cosa tecnica o de mis proyectos**
+- Ooprtunidades como desarrollador junior
+- Colaboraciones en proyectos
+- Networking
 
 
