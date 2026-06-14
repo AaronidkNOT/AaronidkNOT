@@ -55,7 +55,7 @@
 
 📬 Me gusta colaborar y compartir ideas, podes escribirme si:
 
-- Ooprtunidades como desarrollador junior
+- Oportunidades como desarrollador junior
 - Colaboraciones en proyectos
 - Networking
 
