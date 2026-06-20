@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,tailwind,cs,react,mysql,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,tailwind,cs,php,mysql,git,github,linux,vscode" />
 </p>
 
 <h1 align="center">Aaron Domínguez</h1>
@@ -22,7 +22,7 @@ Desarrollador backend y frontend enfocado en la construcción de proyectos propi
 
 * 🤝 Busco colaborar en proyectos de código abierto y desarrollos desafiantes.
 * 💻 Programando siempre con un enfoque estructurado y eficiente.
-* 💬 Podés preguntarme sobre JavaScript, servidores o configuración de entornos.
+* 💬 Podés preguntarme sobre JavaScript, PHP, servidores o configuración de entornos.
 * 📫 Contacto directo: **aaron13780@gmail.com**
 
 ---
@@ -38,6 +38,7 @@ Desarrollador backend y frontend enfocado en la construcción de proyectos propi
 ### Backend & Base de Datos
 [![NodeJs](https://skillicons.dev/icons?i=nodejs "NodeJs")](https://skillicons.dev)
 [![C#](https://skillicons.dev/icons?i=cs "C#")](https://skillicons.dev)
+[![PHP](https://skillicons.dev/icons?i=php "PHP")](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql "MySQL")](https://skillicons.dev)
 
 ### Herramientas & Entorno
