@@ -16,18 +16,18 @@
 
 ---
 
-## 🚀 Sobre Mí
+## Sobre Mí
 
 Desarrollador backend y frontend enfocado en la construcción de proyectos propios y soluciones web estables. Dejé atrás la etapa académica para centrarme al 100% en la práctica, el desarrollo de lógica compleja y la infraestructura técnica.
 
-* 🤝 Busco colaborar en proyectos de código abierto y desarrollos desafiantes.
-* 💻 Programando siempre con un enfoque estructurado y eficiente.
-* 💬 Podés preguntarme sobre JavaScript, PHP, servidores o configuración de entornos.
-* 📫 Contacto directo: **aaron13780@gmail.com**
+*  Busco colaborar en proyectos de código abierto y desarrollos desafiantes.
+*  Programando siempre con un enfoque estructurado y eficiente.
+*  Podés preguntarme sobre JavaScript, PHP, servidores o configuración de entornos.
+*  Contacto directo: **aaron13780@gmail.com**
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 ### Frontend
 [![HTML](https://skillicons.dev/icons?i=html "HTML")](https://skillicons.dev)
@@ -49,18 +49,18 @@ Desarrollador backend y frontend enfocado en la construcción de proyectos propi
 
 ---
 
-## 📈 Enfoque Actual
+##  Enfoque Actual
 
-* 🛠️ Desarrollando un **sistema de gestión académica en .NET Core 10 y C#**.
-* ⚡ Profundizando en **JavaScript avanzado** y optimización de APIs con Node.js.
-* 🧠 Explorando fundamentos de **Inteligencia Artificial y redes neuronales**.
-* 🎨 Dominando la combinación de C# con Tailwind.css para interfaces limpias.
+*  Desarrollando un **sistema de gestión académica en .NET Core 10 y C#**.
+*  Profundizando en **JavaScript avanzado** y optimización de APIs con Node.js.
+*  Explorando fundamentos de **Inteligencia Artificial y redes neuronales**.
+*  Dominando la combinación de C# con Tailwind.css para interfaces limpias.
 
 > "Si lo puedes imaginar, lo puedes programar."
 
 ---
 
-## 🤝 Hablemos
+##  Hablemos
 
 Escribime si te interesa:
 * Colaborar en proyectos y desarrollo de ideas.
